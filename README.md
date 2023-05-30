@@ -13,7 +13,7 @@ https://levelup.gitconnected.com/how-to-create-a-doc-chatbot-that-learns-everyth
 
 ### Modules required
 `pip install llama-index`<br/>
-`pip install langchain`br/>
+`pip install langchain`<br/>
 `pip install streamlit`<br/>
 
 ### How to run
